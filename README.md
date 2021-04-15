@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skrekliam
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs & Angular
 - 💞️ Now making portfolio
 
 <!---

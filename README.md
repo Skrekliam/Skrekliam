@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Skrekliam
 - 👀 I’m interested in learning something new
-- 🌱 Frontend developer | ReactJS
+- 🌱 FullStack Web Developer | ReactJS & NodeJS.
+- ☁ AWS Cloud Practitioner
 
 <!---
 Skrekliam/Skrekliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
